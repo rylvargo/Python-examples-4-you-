@@ -1,0 +1,269 @@
+#--------------------------------------------------------------------------------------------------------------|
+# MATH IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The math import allows you to perform advanced mathematical calculations.
+# You can use it when making calculators, games, or programs that need math.
+# It includes tools for square roots, powers, rounding, and other calculations.
+# It is useful because it saves you from writing complicated math code yourself.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# TIME IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The time import allows you to control timing in your programs.
+# You can use it to create countdowns, timers, delays, and waiting periods.
+# It is useful in games when you want something to happen after a certain amount of time.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# DATETIME IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The datetime import allows you to work with dates and times.
+# You can use it to display the current date, track time, or record when something happens.
+# It is useful for calendars, clocks, schedules, and game save information.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# OS IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The os import allows Python to interact with your computer's operating system.
+# You can use it to find files, create folders, delete files, and check locations.
+# It is useful when making programs that manage files or save game information.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# JSON IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The json import allows you to store and load information in JSON format.
+# You can use it to save player names, scores, settings, and game progress.
+# It is useful because it lets programs save information and use it again later.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# RANDOM IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The random import allows Python to generate random numbers and make random choices.
+# You can use it when making guessing games, enemy spawns, or random rewards.
+# It is useful because it makes games and programs less predictable.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# TURTLE IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The turtle import allows you to draw shapes, pictures, and patterns using Python.
+# You can use it when learning graphics, making drawings, or creating designs.
+# It is useful because it lets you create graphics with simple commands.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# TKINTER IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The tkinter import allows you to create windows, buttons, labels, and menus.
+# You can use it when making desktop apps, calculators, and simple games.
+# It is useful because it lets users interact with your programs through a window.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PYGAME IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pygame import allows you to create video games with graphics, sounds, and movement.
+# You can use it when making 2D games, platformers, and arcade games.
+# It is useful because it provides tools for game development.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# SYS IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The sys import allows you to interact with Python itself.
+# You can use it to exit programs, check Python settings, and access command-line arguments.
+# It is useful because it gives you more control over how your program runs.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# COLLECTIONS IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The collections import provides special types of lists and dictionaries.
+# You can use it when organizing player inventories, counting items, or storing information.
+# It is useful because it makes managing groups of data easier.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# RE IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The re import allows you to search and match patterns in text.
+# You can use it to check passwords, find words, or validate usernames.
+# It is useful because it helps you find specific information inside text.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# STATISTICS IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The statistics import allows you to calculate averages and other statistical values.
+# You can use it when analyzing scores, test results, or player performance.
+# It is useful because it makes working with groups of numbers easier.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# CSV IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The csv import allows you to read and write spreadsheet-style files.
+# You can use it when saving player scores, lists, or large amounts of information.
+# It is useful because it lets Python work with data from spreadsheet programs.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PYPERCLIP IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pyperclip import allows Python to copy and paste text using your clipboard.
+# You can use it when making note apps, text tools, or programs that copy information.
+# It is useful because it lets your program interact with copied text.
+# You must install it separately using: pip install pyperclip
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# URSINA IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The ursina import allows you to create 2D and 3D games using Python.
+# You can use it when making 3D worlds, characters, enemies, and interactive objects.
+# It is useful because it makes creating 3D games easier with simple Python code.
+# You must install it separately using: pip install ursina
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PILLOW IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pillow import allows Python to open, edit, resize, and save images.
+# You can use it when making games, editing pictures, or working with image files.
+# It is useful because it lets you change images without needing a separate image editor.
+# You must install it separately using: pip install pillow
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# NUMPY IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The numpy import allows Python to work with large amounts of numbers and arrays.
+# You can use it when making games, simulations, scientific programs, and math projects.
+# It is useful because it makes complicated calculations faster and easier.
+# You must install it separately using: pip install numpy
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PYGLET IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pyglet import allows you to create windows, graphics, audio, and animations.
+# You can use it when making games, multimedia programs, and graphical applications.
+# It is useful because it provides tools for drawing graphics and playing sounds.
+# INSTALL: pip install pyglet
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# OPENPYXL IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The openpyxl import allows Python to read and edit Excel spreadsheets.
+# You can use it when making programs that store scores, lists, or organized data.
+# It is useful because it lets Python automatically create and edit Excel files.
+# INSTALL: pip install openpyxl
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# REQUESTS IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The requests import allows Python to communicate with websites and web APIs.
+# You can use it when getting online information, weather data, or website content.
+# It is useful because it makes sending and receiving internet requests easier.
+# INSTALL: pip install requests
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# SOCKET IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The socket import allows Python programs to communicate over a network.
+# You can use it when making multiplayer games, chat programs, or network tools.
+# It is useful because it allows computers to send and receive information.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# TKINTER MESSAGEBOX IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The tkinter.messagebox import allows you to create popup messages and alerts.
+# You can use it when making apps that need warnings, confirmations, or notifications.
+# It is useful because it lets your program communicate with users through popups.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# OPENCV IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The cv2 import allows Python to work with images and videos.
+# You can use it when making camera programs, image detection, or computer vision projects.
+# It is useful because it provides powerful tools for analyzing pictures and videos.
+# INSTALL: pip install opencv-python
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PYSIMPLEGUI IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The PySimpleGUI import helps you create windows, buttons, and other interface elements.
+# You can use it when making simple desktop applications.
+# It is useful because it provides an easier way to build graphical interfaces.
+# INSTALL: Check the current PySimpleGUI installation instructions before installing.
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# SOUNDDEVICE IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The sounddevice import allows Python to record and play audio.
+# You can use it when making voice recorders, sound programs, or audio applications.
+# It is useful because it lets Python interact with microphones and speakers.
+# INSTALL: pip install sounddevice
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PYGAME ZERO IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pgzero import allows you to make simple games with less code.
+# You can use it when making 2D games, arcade games, and beginner projects.
+# It is useful because it handles many game functions automatically.
+# INSTALL: pip install pgzero
+
+
+#--------------------------------------------------------------------------------------------------------------|
+# PATHLIB IMPORT
+#--------------------------------------------------------------------------------------------------------------|
+
+# The pathlib import allows Python to work with file and folder paths.
+# You can use it when organizing files, finding folders, or managing game saves.
+# It is useful because it makes working with file locations easier.
+
+pip install pyglet
+pip install openpyxl
+pip install requests
+pip install opencv-python
+pip install sounddevice
+pip install pgzero
